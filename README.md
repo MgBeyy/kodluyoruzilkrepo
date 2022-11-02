@@ -3,14 +3,17 @@ bu repo [Kodluyoruz](https://kodluyoruz.org/) Fornt-End eğitiminde oluşturduğ
 
 ## Installation
 Öncelikle projeyi cloneleyin. 
-' git clone https://github.com/MgBeyy/kodluyoruzilkrepo.git
-
+``` 
+git clone https://github.com/MgBeyy/kodluyoruzilkrepo.git
+```
 ## Usage 
 Projeyi cloneledikten sonra VS code programını açınız. 
 Linux için :
-'''
+```linux
+
 cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
